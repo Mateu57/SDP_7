@@ -1,5 +1,8 @@
 insert into student
-values(10001,'Jarek', 'E1234567');
+values(1,'Mateusz', 'ASDW32E21');
 
 insert into student
-values(10002,'Lech', 'A1234568');
+values(2,'Maciej', '124EEEFS3');
+
+insert into student
+values(3,'Marcin', '1242133S3');
